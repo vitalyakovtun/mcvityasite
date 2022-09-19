@@ -1,0 +1,39 @@
+body {
+  background: #0c0c0c;
+}
+.film{
+width: 260px;
+height: 400px;
+border-radius: 20px;
+box-shadow:0 0 7px white;
+}
+.film1{
+float:left;
+width:20%;
+}
+h1{
+font-family:Impact, fantasy;
+color: silver;
+border: 2px solid silver;
+border-radius: 20px;
+box-shadow:0 0 5px white;
+padding:20px;
+}
+.nazvanie1{
+color: silver;
+font-size: 30px;
+font-family:Impact, fantasy;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

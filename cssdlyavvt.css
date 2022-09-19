@@ -1,0 +1,30 @@
+body {
+  background: #0c0c0c;
+}
+h1{
+background-color:gray;
+font-family:Verdana, sans-serif;
+color: white;
+}
+.film{
+width: 230px;
+height: 350px;
+border-radius: 20px;
+box-shadow:0 0 7px white;
+float:left;
+
+}
+.text{
+color: white;
+padding-left: 270px;
+font-family:Arial, sans-serif;
+}
+.film1{
+width: 315px;
+height: 180px;
+}
+.video video,
+.video iframe{
+width: 1020px;
+height: 600px;
+}
